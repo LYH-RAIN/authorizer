@@ -1,0 +1,11 @@
+ServiceType: private
+ArtifactSourceType: DockerCompose
+ServiceBuildRegion: ap-southeast-1
+RepoName: LYH-RAIN/authorizer
+DockerComposeEnvPath: .env.test
+RegionId: cn-hangzhou
+CustomParameters: ''
+DockerComposeYamlPath: docker-compose.yaml
+Owner: LYH-RAIN
+Branch: dasdadas
+Platform: github
